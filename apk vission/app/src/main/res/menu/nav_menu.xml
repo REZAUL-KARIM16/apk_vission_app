@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/telegram"
+        android:icon="@drawable/ic_baseline_near_me_24"
+
+        android:title="Telegram"
+
+        />
+
+
+    <item android:title="Youtube"
+
+        android:icon="@drawable/ic_baseline_video_library_24"
+        android:id="@+id/youtube"
+
+
+        />
+
+
+    <item android:title="Instagram"
+
+        android:icon="@drawable/ic_baseline_chat_bubble_24"
+
+        android:id="@+id/instra"
+
+
+
+        />
+
+
+
+
+
+    <item android:title="Share"
+
+        android:icon="@drawable/ic_baseline_share_24"
+
+        android:id="@+id/share"
+
+
+
+        />
+
+    <item android:title="Privacy Policy"
+
+        android:icon="@drawable/ic_baseline_privacy_tip_24"
+
+        android:id="@+id/privacy"
+
+
+
+        />
+
+
+
+</menu>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ApkVision - News</string>
+
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="url">https://apkvision.com/wp-json/wp/v2/news?_embed</string>
+
+    // https://apkvision.com/wp-json/wp/v2/news?_embed3page=
+
+</resources>
